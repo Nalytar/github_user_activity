@@ -1,5 +1,11 @@
 Project URL: https://roadmap.sh/projects/github-user-activity
 
+# Setup
+
+Use the setup.sh / setup.ps1 to let the script check if python/pip is installed and install all the required packages.
+<code>chmod +x setup.sh</code> to provied execute rights for the script
+
+You may need to restart your console after executing the script for the changes to take action
 # Github User Activity
 
 Provide the GitHub username as an argument when running the CLI.
